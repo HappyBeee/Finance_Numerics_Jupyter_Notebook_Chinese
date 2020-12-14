@@ -1,1 +1,3 @@
-数据为John Hull网站上的示例数据剪切版，原地址为https://www-2.rotman.utoronto.ca/~hull/data/EURUSDExchangerates.xls 。
+仅作为计算示例。
+
+数据为John Hull网站上的示例数据（对应于书《期权、期货及其他衍生产品》）的剪切版，原地址为https://www-2.rotman.utoronto.ca/~hull/data 。
